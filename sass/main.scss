@@ -28,6 +28,7 @@ h1 {
   font-size: 52px;
   background-image: url(http://i.stack.imgur.com/FqrhS.png);
   background-position: center;
+  font-family:$f;
 }
 
 body{
@@ -44,10 +45,15 @@ footer{
   text-align:left;
   color: black;
   text-decoration:none;
-
+  font-family:$f;
   a{
     text-decoration:none;
     color: black;
     font-weight: bold;
+    font-family:$f;
   }
+}
+
+.answer{
+  border: 2px solid black;
 }

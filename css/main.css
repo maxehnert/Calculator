@@ -1,0 +1,39 @@
+header {
+  font-family: "Lato", sans-serif; }
+
+.container {
+  margin: 25px auto;
+  padding: 0;
+  list-style: none;
+  overflow: auto;
+  width: 85%; }
+  .container img {
+    padding-left: 38%; }
+  .container h3 {
+    text-align: center; }
+
+h1 {
+  text-align: center;
+  color: darksalmon;
+  font-size: 52px;
+  background-image: url(http://i.stack.imgur.com/FqrhS.png);
+  background-position: center; }
+
+body {
+  background-color: HSLA(266, 17%, 92%, 1); }
+
+.inputs {
+  padding-left: 45%; }
+
+footer {
+  padding: 35px;
+  font-size: 15px;
+  text-align: left;
+  color: black;
+  text-decoration: none; }
+  footer a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold; }
+
+/*# sourceMappingURL=main.css.map */
